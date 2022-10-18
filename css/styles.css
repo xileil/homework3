@@ -107,9 +107,12 @@ header{
   background-repeat: no-repeat; /* Parallax effect */
   background-size: cover;       /* Parallax effect */
   color: white;
-  height: 400px;
-  background: url(../images/header.jpg) #dddddd;
-  min-height: 400px;    
+  min-height: 400px;
+  background-color: #dddddd;
+  background-color: #858585;
+  background-color: #707070;
+  background-color: #b3b3b3;
+  background-image: url(../images/header.jpg);  
   grid-row: 2/span 1;  
   grid-column: 1/-1;          
   /* Parallax effect */
